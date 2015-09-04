@@ -1,0 +1,16 @@
+{
+  "name": "webpack-hot-server",
+  "version": "1.0.0",
+  "description": "webpack-dev-middleware + webpack-hot-middleware + express = this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Hoage",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "webpack-dev-middleware": "^1.2.0",
+    "webpack-hot-middleware": "^2.0.0"
+  }
+}
